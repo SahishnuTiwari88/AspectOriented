@@ -1,0 +1,12 @@
+@charset "UTF-8";
+p{
+	color:skyblue;
+	font-size:30px;
+	text-align: center;
+	display:block;
+}
+h1{
+	color:skyblue;
+	font-size:50px;
+	text-align: center;
+}
